@@ -1,0 +1,1 @@
+// Trafik kurallarını yöneten script
